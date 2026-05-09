@@ -1,4 +1,4 @@
-# 🌊 SolYield Pro — Autonomous DeFi Yield Optimizer on Solana
+# 🌊 SolYield Pro - Autonomous DeFi Yield Optimizer on Solana
 
 > An AI-powered skill built on OKX Onchain OS that autonomously scans, compares, and optimizes DeFi yield opportunities across Solana protocols — maximizing returns while managing risk.
 
